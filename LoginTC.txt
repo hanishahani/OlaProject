@@ -1,0 +1,4 @@
+open Ola aplication
+Enter a valid UN
+Enter valid password
+Click on login
